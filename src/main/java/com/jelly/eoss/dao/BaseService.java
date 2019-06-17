@@ -21,6 +21,7 @@ public class BaseService {
 		System.out.println("福利来了!");
 		System.out.println("提交的怎么刷新不出来了!");
 		System.out.println("keyi l ma !");
+		System.out.println("keyi l ma !");
 	}
 	
 	/******************************** Start MyBatis ********************************/

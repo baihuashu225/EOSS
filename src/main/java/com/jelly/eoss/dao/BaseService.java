@@ -17,7 +17,7 @@ public class BaseService {
 	private SqlSessionTemplate sqlSessionTemplate;
 	
 	public BaseService(){
-		System.out.println("hello,it is my test!");
+		System.out.println("hello,it is first my test!");
 		System.out.println("福利来了!");
 	}
 	

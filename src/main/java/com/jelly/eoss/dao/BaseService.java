@@ -19,6 +19,7 @@ public class BaseService {
 	public BaseService(){
 		System.out.println("hello,it is first my test 我哦改这里了!");
 		System.out.println("福利来了!");
+		System.out.println("keyi l ma !");
 	}
 	
 	/******************************** Start MyBatis ********************************/
